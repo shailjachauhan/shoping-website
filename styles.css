@@ -52,13 +52,7 @@ body {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.main-header {
-  background-color: rgba(0, 0, 0, 0.6);
-  background-image: url("Images/Header Background.jpg");
-  background-blend-mode: multiply;
-  background-size: cover;
-  padding-bottom: 30px;
-}
+
 
 .band-name {
   text-align: center;
